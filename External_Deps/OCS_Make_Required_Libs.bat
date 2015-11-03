@@ -28,7 +28,7 @@ Rem Set path to OpenSSL sources
 set OPENSSL_PATH=D:\Developp\OCS Inventory NG\GitHub\WindowsAgent\External_Deps\openssl-1.0.0s
 
 Rem Set path to cURL sources
-set CURL_PATH=D:\Developp\OCS Inventory NG\GitHub\WindowsAgent\External_Deps\curl-7.45.0
+set CURL_PATH=D:\Developp\OCS Inventory NG\GitHub\WindowsAgent\External_Deps\curl-7.46.0
 
 Rem Set path to tinyXML sources
 SET XML_PATH=D:\Developp\OCS Inventory NG\GitHub\WindowsAgent\External_Deps\tinyxml
